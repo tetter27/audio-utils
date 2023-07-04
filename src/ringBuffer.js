@@ -89,4 +89,4 @@ class RingBuffer {
     }
 }
 
-module.exports = RingBuffer;
+export default RingBuffer;
